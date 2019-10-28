@@ -2,10 +2,10 @@
   "logs": [
     {
       "id": 1,
-      "message": "Test log 5",
+      "message": "Hard drive 2 fixed",
       "attention": false,
       "tech": "John Doe",
-      "date": "2019-10-28T14:21:47.157Z"
+      "date": "2019-10-28T14:35:25.880Z"
     },
     {
       "id": 2,
@@ -20,6 +20,13 @@
       "tech": "Sam Smith",
       "date": "2019-10-28T13:30:36.700Z",
       "id": 3
+    },
+    {
+      "message": "Hard drive 3 pending",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2019-10-28T14:35:42.137Z",
+      "id": 4
     }
   ],
   "techs": [
