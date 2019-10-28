@@ -1,18 +1,18 @@
 {
   "logs": [
     {
+      "id": 1,
       "message": "Test log 1",
       "attention": false,
       "tech": "John Doe",
-      "date": "2019-10-28T13:30:14.115Z",
-      "id": 1
+      "date": "2019-10-28T14:14:45.073Z"
     },
     {
-      "message": "Test log 2",
+      "id": 2,
+      "message": "Fixed Test log 2",
       "attention": false,
       "tech": "Sara Wilson",
-      "date": "2019-10-28T13:30:24.784Z",
-      "id": 2
+      "date": "2019-10-28T14:14:52.431Z"
     },
     {
       "message": "Test log 3",
