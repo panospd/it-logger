@@ -2,10 +2,10 @@
   "logs": [
     {
       "id": 1,
-      "message": "Test log 1",
+      "message": "Test log 5",
       "attention": false,
       "tech": "John Doe",
-      "date": "2019-10-28T14:14:45.073Z"
+      "date": "2019-10-28T14:21:47.157Z"
     },
     {
       "id": 2,
