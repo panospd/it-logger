@@ -4,8 +4,8 @@
       "id": 1,
       "message": "Hard drive 2 fixed",
       "attention": false,
-      "tech": "John Doe",
-      "date": "2019-10-28T14:35:25.880Z"
+      "tech": "Panos Anastasiadis",
+      "date": "2019-10-29T11:21:22.225Z"
     },
     {
       "id": 2,
@@ -44,6 +44,11 @@
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
+    },
+    {
+      "id": 4,
+      "firstName": "Panos",
+      "lastName": "Anastasiadis"
     }
   ]
 }
