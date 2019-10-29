@@ -41,24 +41,9 @@
       "lastName": "Smith"
     },
     {
-      "id": 3,
-      "firstName": "Sara",
-      "lastName": "Wilson"
-    },
-    {
-      "id": 4,
-      "firstName": "Panos",
-      "lastName": "Anastasiadis"
-    },
-    {
       "firstName": "Amalia ",
       "lastName": "Anas",
       "id": 5
-    },
-    {
-      "firstName": "Tasos",
-      "lastName": "Anastasiou",
-      "id": 6
     }
   ]
 }
